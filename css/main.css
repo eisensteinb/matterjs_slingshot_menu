@@ -1,0 +1,41 @@
+.logo-size {
+  width: 65px;
+  height: 60px;
+}
+
+.refresh-cradle:hover {
+  cursor: pointer;
+}
+
+.catapult {
+  width: 100% !important;
+  height: 300px !important;
+  /* background-color: #ffe4c4; */
+}
+
+.block {
+  background-color: blanchedalmond;
+  width: 100px;
+}
+
+.border {
+  border: 1px solid rgb(151, 151, 151);
+}
+
+.impact {
+  background-color: bisque;
+  transition: 0.4s;
+}
+
+.padding-small-lr {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+.guide-text {
+  position: absolute;
+  margin-top: -110px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none
+}
