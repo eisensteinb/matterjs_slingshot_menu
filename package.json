@@ -17,9 +17,9 @@
     "build": "webpack",
     "watch": "webpack --watch",
     "start": "nodemon server.js",
-    "deploy": "gh-pages -d demo"
+    "deploy": "gh-pages -d build"
   },
   "author": "eisensteinb",
   "license": "ISC",
-  "homepage": "https://eisensteinb.github.io/slingshot_demo"
+  "homepage": "https://eisensteinb.github.io/matterjs_slingshot_menu"
 }
