@@ -89,7 +89,7 @@ export const slingshotMenu = () => {
       if (xPos > -300 && xPos < 10 && yPos < 100) {
         document.getElementById('menu-1').classList.add('uk-animation-shake');
         setTimeout(() => {
-          window.location.href = '/menu1.html';
+          window.location.href = '/matterjs_slingshot_menu/menu1.html';
         }, 500);
         return;
       }
@@ -97,7 +97,7 @@ export const slingshotMenu = () => {
       if (xPos > 11 && xPos < 100 && yPos < 100) {
         document.getElementById('menu-2').classList.add('uk-animation-shake');
         setTimeout(() => {
-          window.location.href = '/menu2.html';
+          window.location.href = '/matterjs_slingshot_menu/menu2.html';
         }, 500);
         return;
       }
@@ -105,7 +105,7 @@ export const slingshotMenu = () => {
       if (xPos > 101 && xPos < 320 && yPos < 100) {
         document.getElementById('menu-3').classList.add('uk-animation-shake');
         setTimeout(() => {
-          window.location.href = '/menu3.html';
+          window.location.href = '/matterjs_slingshot_menu/menu3.html';
         }, 500);
         return;
       }
@@ -113,7 +113,7 @@ export const slingshotMenu = () => {
       if (xPos > 320 && xPos < 470 && yPos < 100) {
         document.getElementById('main-menu').classList.add('uk-animation-shake');
         setTimeout(() => {
-          window.location.href = '/';
+          window.location.href = '/matterjs_slingshot_menu/';
         }, 500);
         return;
       }
@@ -121,7 +121,7 @@ export const slingshotMenu = () => {
       if (xPos > 510 && xPos < 680 && yPos < 100) {
         document.getElementById('menu-4').classList.add('uk-animation-shake');
         setTimeout(() => {
-          window.location.href = '/menu4.html';
+          window.location.href = '/matterjs_slingshot_menu/menu4.html';
         }, 500);
         return;
       }
@@ -129,7 +129,7 @@ export const slingshotMenu = () => {
       if (xPos > 681 && xPos < 880 && yPos < 100) {
         document.getElementById('menu-5').classList.add('uk-animation-shake');
         setTimeout(() => {
-          window.location.href = '/menu5.html';
+          window.location.href = '/matterjs_slingshot_menu/menu5.html';
         }, 500);
         return;
       }
@@ -137,7 +137,7 @@ export const slingshotMenu = () => {
       if (xPos > 881 && xPos < 1000 && yPos < 100) {
         document.getElementById('menu-6').classList.add('uk-animation-shake');
         setTimeout(() => {
-          window.location.href = '/menu6.html';
+          window.location.href = '/matterjs_slingshot_menu/menu6.html';
         }, 500);
         return;
       }
